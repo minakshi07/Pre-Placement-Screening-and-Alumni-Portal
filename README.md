@@ -1,0 +1,2 @@
+# Pre-Placement-Screening-and-Alumni-Portal
+Every company performs some form of pre-employment screening. The process can be as simple as asking “When can you start?" or as difficult as requiring applicants to undergo extensive pre-employment tests of experience, ability, and personality. This project involves analysis of % match of skillsets of a candidate, further hiring or rejecting the resume provided by the candidate
