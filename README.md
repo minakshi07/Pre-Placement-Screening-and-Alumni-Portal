@@ -31,6 +31,7 @@ The companies have a view privilege for certain attributes of students in the co
 
 The final Product:
 
+![](/portal.jpg)
 
 Contributors - Minakshi Kudalkar,
                Shashank Gupta
