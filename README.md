@@ -33,6 +33,4 @@ The final Product:
 
 ![](/portal.jpg)
 
-Contributors - Minakshi Kudalkar,
-               Shashank Gupta
 
