@@ -29,3 +29,6 @@ The Alumni committee have view privilege for other Alumni associated with the po
 The students have a view privilege for the recruiting companies 
 The companies have a view privilege for certain attributes of students in the college.
 
+Contributors - Minakshi Kudalkar,
+               Shashank Gupta
+
